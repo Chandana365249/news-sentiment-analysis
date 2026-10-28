@@ -352,8 +352,3 @@ This project simplifies real-time financial news tracking and sentiment-based st
 - Integration with additional financial APIs for stock data validation.
 - Enhanced deep learning models for better sentiment accuracy.
 
-## 9. Deployment & Resources
-- **Deployment Link:** [Hugging Face Spaces](https://srirag12-news-sentiment-analysis.hf.space)
-- **GitHub Repository:** [GitHub](https://github.com/Srirag2004/news-sentiment-analysis)
-- **License:** MIT
-- **Contributors:** Srirag Punnamaraju
